@@ -1,0 +1,7 @@
+C:\Users\014651631\source\repos\POO\DesafioLinq\bin\Debug\DesafioLinq.exe.config
+C:\Users\014651631\source\repos\POO\DesafioLinq\bin\Debug\DesafioLinq.exe
+C:\Users\014651631\source\repos\POO\DesafioLinq\bin\Debug\DesafioLinq.pdb
+C:\Users\014651631\source\repos\POO\DesafioLinq\obj\Debug\DesafioLinq.csproj.AssemblyReference.cache
+C:\Users\014651631\source\repos\POO\DesafioLinq\obj\Debug\DesafioLinq.csproj.CoreCompileInputs.cache
+C:\Users\014651631\source\repos\POO\DesafioLinq\obj\Debug\DesafioLinq.exe
+C:\Users\014651631\source\repos\POO\DesafioLinq\obj\Debug\DesafioLinq.pdb
