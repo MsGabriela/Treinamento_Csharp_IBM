@@ -1,0 +1,7 @@
+C:\Users\014651631\source\repos\02_CS_POO\Aula09_POO\bin\Debug\Aula09_POO.exe.config
+C:\Users\014651631\source\repos\02_CS_POO\Aula09_POO\bin\Debug\Aula09_POO.exe
+C:\Users\014651631\source\repos\02_CS_POO\Aula09_POO\bin\Debug\Aula09_POO.pdb
+C:\Users\014651631\source\repos\02_CS_POO\Aula09_POO\obj\Debug\Aula09_POO.csproj.AssemblyReference.cache
+C:\Users\014651631\source\repos\02_CS_POO\Aula09_POO\obj\Debug\Aula09_POO.csproj.CoreCompileInputs.cache
+C:\Users\014651631\source\repos\02_CS_POO\Aula09_POO\obj\Debug\Aula09_POO.exe
+C:\Users\014651631\source\repos\02_CS_POO\Aula09_POO\obj\Debug\Aula09_POO.pdb

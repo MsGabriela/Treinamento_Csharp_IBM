@@ -1,0 +1,7 @@
+C:\Users\014651631\source\repos\02_CS_POO\DesafioAula02-POO\bin\Debug\DesafioAula02-POO.exe.config
+C:\Users\014651631\source\repos\02_CS_POO\DesafioAula02-POO\bin\Debug\DesafioAula02-POO.exe
+C:\Users\014651631\source\repos\02_CS_POO\DesafioAula02-POO\bin\Debug\DesafioAula02-POO.pdb
+C:\Users\014651631\source\repos\02_CS_POO\DesafioAula02-POO\obj\Debug\DesafioAula02-POO.csproj.AssemblyReference.cache
+C:\Users\014651631\source\repos\02_CS_POO\DesafioAula02-POO\obj\Debug\DesafioAula02-POO.csproj.CoreCompileInputs.cache
+C:\Users\014651631\source\repos\02_CS_POO\DesafioAula02-POO\obj\Debug\DesafioAula02-POO.exe
+C:\Users\014651631\source\repos\02_CS_POO\DesafioAula02-POO\obj\Debug\DesafioAula02-POO.pdb

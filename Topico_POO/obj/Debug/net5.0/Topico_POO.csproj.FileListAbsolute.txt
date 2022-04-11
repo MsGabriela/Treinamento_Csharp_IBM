@@ -1,0 +1,16 @@
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\bin\Debug\net5.0\Topico_POO.exe
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\bin\Debug\net5.0\Topico_POO.deps.json
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\bin\Debug\net5.0\Topico_POO.runtimeconfig.json
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\bin\Debug\net5.0\Topico_POO.runtimeconfig.dev.json
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\bin\Debug\net5.0\Topico_POO.dll
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\bin\Debug\net5.0\ref\Topico_POO.dll
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\bin\Debug\net5.0\Topico_POO.pdb
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\Topico_POO.csproj.AssemblyReference.cache
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\Topico_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\Topico_POO.AssemblyInfoInputs.cache
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\Topico_POO.AssemblyInfo.cs
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\Topico_POO.csproj.CoreCompileInputs.cache
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\Topico_POO.dll
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\ref\Topico_POO.dll
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\Topico_POO.pdb
+C:\Users\014651631\source\repos\02_CS_POO\Topico_POO\obj\Debug\net5.0\Topico_POO.genruntimeconfig.cache
